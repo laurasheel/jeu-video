@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - player
   - 
   - 
   - 
@@ -41,3 +41,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: walls
+    uniqueID: 2967150247
+    locked: 0
+  - name: shelves
+    uniqueID: 1307712303
+    locked: 0
+  - name: objetcs layer 1
+    uniqueID: 1141385383
+    locked: 0
+  - name: player
+    uniqueID: 3276057989
+    locked: 0
+  m_RenderingLayers:
+  - Default

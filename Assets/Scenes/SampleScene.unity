@@ -671,7 +671,7 @@ GameObject:
   - component: {fileID: 531952205}
   - component: {fileID: 531952204}
   m_Layer: 0
-  m_Name: image4_19 (2)
+  m_Name: 'shelves '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -721,8 +721,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 1141385383
-  m_SortingLayer: 3
+  m_SortingLayerID: 1307712303
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -7817732222773242878, guid: f4426393262a9a046acb7c8db7f2a9f8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -744,8 +744,8 @@ Transform:
   m_GameObject: {fileID: 531952203}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.56, y: 5.7, z: 0}
-  m_LocalScale: {x: 0.35964698, y: 0.5028843, z: 1}
+  m_LocalPosition: {x: -2.565, y: 5.705, z: 0}
+  m_LocalScale: {x: 0.35795727, y: 0.50169355, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1897,7 +1897,7 @@ GameObject:
   - component: {fileID: 1675853841}
   - component: {fileID: 1675853840}
   m_Layer: 0
-  m_Name: image7_2
+  m_Name: bag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1947,8 +1947,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: -1018909307
-  m_SortingLayer: 4
+  m_SortingLayerID: 1141385383
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -6086907260843972164, guid: ebc1c17819beb98418943b1b23a52cd9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1970,8 +1970,8 @@ Transform:
   m_GameObject: {fileID: 1675853839}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.73, y: 5.46, z: 0}
-  m_LocalScale: {x: 0.16072768, y: 0.13574, z: 1}
+  m_LocalPosition: {x: -2.9691, y: 5.3552, z: 0}
+  m_LocalScale: {x: 0.12038652, y: 0.10699328, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1987,7 +1987,7 @@ GameObject:
   - component: {fileID: 1704309035}
   - component: {fileID: 1704309034}
   m_Layer: 0
-  m_Name: image4_19 (3)
+  m_Name: shelves
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2037,8 +2037,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 1141385383
-  m_SortingLayer: 3
+  m_SortingLayerID: 1307712303
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -7817732222773242878, guid: f4426393262a9a046acb7c8db7f2a9f8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2290,7 +2290,7 @@ GameObject:
   - component: {fileID: 1871722743}
   - component: {fileID: 1871722742}
   m_Layer: 0
-  m_Name: image4_19 (1)
+  m_Name: shelves
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2340,8 +2340,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 1141385383
-  m_SortingLayer: 3
+  m_SortingLayerID: 1307712303
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -7817732222773242878, guid: f4426393262a9a046acb7c8db7f2a9f8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
